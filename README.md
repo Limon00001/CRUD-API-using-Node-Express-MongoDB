@@ -1,19 +1,22 @@
 <div align="center">
 
-![Contributor](https://img.shields.io/badge/Contributor-000?style=for-the-badge&logo=c&logoColor=whitesmoke)
+![Contributor](https://img.shields.io/badge/Contributor-000?style=for-the-badge&logo=c&logoColor=whitesmoke) ![Node JS](https://img.shields.io/badge/Node-000?style=for-the-badge&logo=node.js&logoColor=green) ![NPM](https://img.shields.io/badge/Npm-000?style=for-the-badge&logo=npm&logoColor=red)
+![GitHub](https://img.shields.io/badge/Github-000?style=for-the-badge&logo=github&logoColor=white)
+
+![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=red)
 
   <!-- ![HTML5](https://img.shields.io/badge/Html5-000?style=for-the-badge&logo=html5&logoColor=E34F26) -->
   <!-- ![CSS3](https://img.shields.io/badge/Css3-000?style=for-the-badge&logo=css3&logoColor=1572B6) -->
   <!-- ![Tailwin CSS](https://img.shields.io/badge/TailwindCSS-000?style=for-the-badge&logo=tailwindcss&logoColor=38B2AC) -->
 
-![Node JS](https://img.shields.io/badge/Node-000?style=for-the-badge&logo=node.js&logoColor=green)
+<!-- ![Node JS](https://img.shields.io/badge/Node-000?style=for-the-badge&logo=node.js&logoColor=green) -->
 
   <!-- ![React JS](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=cyan) -->
   <!-- ![Vite](https://img.shields.io/badge/Vite-000?style=for-the-badge&logo=vite&logoColor=white) -->
 
-![NPM](https://img.shields.io/badge/Npm-000?style=for-the-badge&logo=npm&logoColor=red)
-![GitHub](https://img.shields.io/badge/Github-000?style=for-the-badge&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=red)
+<!-- ![NPM](https://img.shields.io/badge/Npm-000?style=for-the-badge&logo=npm&logoColor=red) -->
+<!-- ![GitHub](https://img.shields.io/badge/Github-000?style=for-the-badge&logo=github&logoColor=white) -->
+<!-- ![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=red) -->
 
   <!-- ![Vercel](https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=white) -->
 
